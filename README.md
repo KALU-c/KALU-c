@@ -26,6 +26,8 @@ I am always interested in getting to know new people in the development industry
   <img src="https://skillicons.dev/icons?i=discord,github,gmail,linkedin,stackoverflow" alt="Platforms" />
 </p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=KALU-c&theme=dark&hide_border=false)
+
 
 
 
