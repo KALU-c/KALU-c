@@ -1,7 +1,3 @@
-# Welcome 👋
-
-I am always interested in getting to know new people in the development industry.
-
 📫 How to reach me: [@Real_Kal on Telegram](https://t.me/Real_Kal) | [endekaluzemenu2134@gmail.com](endekaluzemenu2134@gmail.com)
 
 <!--## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects -->
