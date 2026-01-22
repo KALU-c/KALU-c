@@ -4,17 +4,17 @@
 
 ## Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,cpp,java,css,express,git,html,htmx,js,mongodb,nodejs,npm,react,tailwind,ts,postgresql,vite" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,cpp,java,css,express,git,html,htmx,js,mongodb,nodejs,npm,react,tailwind,ts,postgresql,vite,bun,go,postgres,prisma" alt="Technologies" />
 </p>
 
 ## Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode,androidstudio,docker,postman,redis" alt="Tools" />
 </p>
 
 ## Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" alt="Operating Systems" />
+  <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
 </p>
 
 ## Platforms
