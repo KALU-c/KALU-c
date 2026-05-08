@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=discord,github,gmail,linkedin,stackoverflow" alt="Platforms" />
 </p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=KALU-c&theme=dark&hide_border=false)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KALU-c&" alt="KALU-c" /></p>
 
 
 
