@@ -1,15 +1,25 @@
-📫 How to reach me: [@Real_Kal on Telegram](https://t.me/Real_Kal) | [endekaluzemenu2134@gmail.com](endekaluzemenu2134@gmail.com)
+<h1>Hi 👋, I'm Endekalu Zemenu</h1>
+<h3>I'm a software engineer at cher.et</h3>
 
+- 👨‍💻 All of my projects are available at [https://kalu.dev](https://kalu.dev)
+- 📫 How to reach me [endekaluzemenu2134@gmail.com](endekaluzemenu2134@gmail.com) | [@Real_Kal](https://t.me/Real_Kal) on Telegram
+
+---
 <!--## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects -->
 
 ## Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,cpp,java,css,express,git,html,htmx,js,mongodb,nodejs,npm,react,tailwind,ts,postgresql,vite,bun,go,postgres,prisma" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=rust,nextjs,ts,rabbitmq,react,css,express,git,html,htmx,js,mongodb,nodejs,npm,tailwind,ts,postgresql,vite,bun,go,postgres,prisma,bash,cypress,md,nestjs,redis,supabase,vercel,wordpress&perline=10" alt="Technologies" />
 </p>
 
 ## Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode,androidstudio,docker,postman,redis" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,git,neovim,androidstudio,docker,postman,redis,blender,obsidian&perline=10" alt="Tools" />
+</p>
+
+## Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,github,gmail,linkedin,stackoverflow,devto,netlify&perline=10" alt="Platforms" />
 </p>
 
 ## Operating Systems
@@ -17,10 +27,6 @@
   <img src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
 </p>
 
-## Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=discord,github,gmail,linkedin,stackoverflow" alt="Platforms" />
-</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KALU-c&theme=tokyonight&hide_border=true&border_radius=25&card_width=700)](https://git.io/streak-stats)
 
