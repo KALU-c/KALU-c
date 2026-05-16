@@ -22,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=discord,github,gmail,linkedin,stackoverflow" alt="Platforms" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KALU-c&" alt="KALU-c" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KALU-c&theme=tokyonight&hide_border=true&border_radius=25&card_width=700)](https://git.io/streak-stats)
 
 
 
